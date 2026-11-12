@@ -1,0 +1,6 @@
+{
+  "name": "MISSION: FOLLOW THE INSTRUCTIONS!",
+  "description": "Interactive English imperatives adventure game for SENA apprentices. Navigate an illustrated town map by translating Spanish navigation instructions into English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
